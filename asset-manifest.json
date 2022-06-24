@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZoeCoin/static/css/main.e6c13ad2.css",
+    "main.js": "/ZoeCoin/static/js/main.6a927d72.js",
+    "static/js/787.7f41110f.chunk.js": "/ZoeCoin/static/js/787.7f41110f.chunk.js",
+    "index.html": "/ZoeCoin/index.html",
+    "main.e6c13ad2.css.map": "/ZoeCoin/static/css/main.e6c13ad2.css.map",
+    "main.6a927d72.js.map": "/ZoeCoin/static/js/main.6a927d72.js.map",
+    "787.7f41110f.chunk.js.map": "/ZoeCoin/static/js/787.7f41110f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a927d72.js"
+  ]
+}
